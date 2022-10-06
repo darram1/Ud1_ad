@@ -1,7 +1,6 @@
 package es.dar.tr9;
 
 import java.io.File;
-import java.io.FileFilter;
 
 public class Main 
 {
